@@ -1,0 +1,57 @@
+*{
+    border: 0;
+    margin: 0;
+    border-collapse: collapse;
+}
+
+body{
+    width: 70%;
+
+}
+h1, h2, h3{
+    color: red;
+}
+.logo{
+    display: block;
+    margin-inline: 70%;
+    width: 200px;
+}
+
+.table1{
+    margin-left: 20%;
+    background-color: rgb(193, 193, 193);
+    width: 70%;
+   display: block;
+}
+
+.t1-col1{
+    width: 150px;
+}
+
+
+
+.table2{
+    margin-left: 20%;
+    background-color: rgb(193, 193, 193);
+    width: 70%;
+    display: block;
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+.t2-col1{
+    width: 150px;
+}
+
+.t3{
+    color: red;
+}
+.QR{
+    float: left;
+}
+
+.table3{
+ margin-left: 20px;   
+}
